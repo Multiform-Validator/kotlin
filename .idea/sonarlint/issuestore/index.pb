@@ -7,3 +7,23 @@ G
 multiform-validator.iml,d\5\d504f9b2cf453f919611cab68c0658cce3d4302e
 G
 src/main/kotlin/Main.kt,d\8\d83ae3847b7d408136086cc5e9e95f5f7c126ed5
+T
+$src/test/kotlin/test_CpfValidator.kt,b\9\b99ee3f4f26e65147657407346d01d34e468b2a3
+P
+ src/main/kotlin/CnpjValidator.kt,d\6\d68bda52a2bca6a82fda6c0e6a14aa002c2b14d7
+U
+%src/test/kotlin/test_CnpjValidator.kt,5\e\5e7ed05eb20df30a215289817543113eb0e8a750
+O
+src/main/kotlin/CpfValidator.kt,d\9\d962f1a1a7755aa2dd7a17dfcea05123b89ea233
+V
+&src/main/kotlin/CreditCardValidator.kt,7\e\7eb9a2b3314ef6c5ca43eccb6bc245d429b27d58
+Q
+!src/main/kotlin/EmailValidator.kt,8\5\85cf9a1203932e1143b33e76ccceb93161ac03f0
+L
+src/main/kotlin/Validator.kt,e\8\e8b83630bafecb98399d3c08e721173b4a16b529
+[
++src/test/kotlin/test_CreditCardValidator.kt,c\f\cfc168c7e69bb8c84ff7d20fde0480e8a9cb85cb
+V
+&src/test/kotlin/test_EmailValidator.kt,2\6\26a9a7c88872e994049900d0e758aea6deca4683
+Q
+!src/test/kotlin/test_Validator.kt,4\7\47099d604f5454a9f826c9bd7f6ad9311bbeb9b4
